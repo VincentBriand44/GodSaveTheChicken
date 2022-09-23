@@ -6032,16 +6032,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6531175966160729275, guid: 73b5b33f2eea06f439897670a2936a99,
-        type: 3}
-      propertyPath: m_Volume
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6531175966160729275, guid: 73b5b33f2eea06f439897670a2936a99,
-        type: 3}
-      propertyPath: BypassReverbZones
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6531175966160729277, guid: 73b5b33f2eea06f439897670a2936a99,
         type: 3}
       propertyPath: m_Name

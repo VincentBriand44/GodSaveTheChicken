@@ -5436,21 +5436,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6531175966160729275, guid: 73b5b33f2eea06f439897670a2936a99,
-        type: 3}
-      propertyPath: m_Volume
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6531175966160729276, guid: 73b5b33f2eea06f439897670a2936a99,
-        type: 3}
-      propertyPath: playlist.Array.data[0]
-      value: 
-      objectReference: {fileID: 8300000, guid: 6c90f27891a412244abe2cc73cba7cb4, type: 3}
-    - target: {fileID: 6531175966160729276, guid: 73b5b33f2eea06f439897670a2936a99,
-        type: 3}
-      propertyPath: playlist.Array.data[1]
-      value: 
-      objectReference: {fileID: 8300000, guid: 9c5175affe29cc24fad68cd86c6a9fe8, type: 3}
     - target: {fileID: 6531175966160729277, guid: 73b5b33f2eea06f439897670a2936a99,
         type: 3}
       propertyPath: m_Name
@@ -6283,7 +6268,7 @@ Transform:
   - {fileID: 758023567}
   - {fileID: 548165486}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1290791133 stripped
 MonoBehaviour:
